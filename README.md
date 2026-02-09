@@ -14,10 +14,8 @@ Baby continual learning in a markdown file.
 
 ## Install
 
-**Codex**
-
 ```bash
-git clone https://github.com/ivanfuhr/laravel-progressive-learning.git ~/.codex/skills/laravel-progressive-learning
+npx skills add https://github.com/ivanfuhr/laravel-progressive-learning --skill laravel-progressive-learning
 ```
 
 That's it. The skill activates every session, unconditionally.
